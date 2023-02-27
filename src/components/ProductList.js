@@ -28,6 +28,11 @@ export default function ProductList({data}) {
           <div>
             <span>categorie:</span> {product.categorie}
           </div>
+          <div>
+            <Link to={`/productDetail/${product.id}`}>
+              <button className="btn btn-success">Details</button>
+              </Link>
+          </div>
         </div>
       </li>
     ))}
