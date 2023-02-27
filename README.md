@@ -5,6 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # DESCRIPTIN:
 >This is a simple application with 3 pages that allows users to view, filter, and add products. The main page displays a list of products with the ability to filter by name, category, stock status, and price range using the ProductFilter component. Clicking on a product's name leads to a details page showing the product's name, description, brand, category, price, and stock status. The third page is a form for adding a new product, which requires validation of all fields. The app uses routing to navigate between the pages.
 
+# SCREEENS:
+
+| <img width="936" alt="Screen Shot 2023-02-27 at 5 56 14 PM" src="https://user-images.githubusercontent.com/110359866/221628970-fe1d1f76-7426-4d62-9084-bf73ec6ad239.png"> | <img width="1159" alt="Screen Shot 2023-02-27 at 5 56 02 PM" src="https://user-images.githubusercontent.com/110359866/221628990-821c7c07-a709-4f8f-83e2-7b2d329e123c.png"> | <img width="1203" alt="Screen Shot 2023-02-27 at 5 55 47 PM" src="https://user-images.githubusercontent.com/110359866/221628993-c592e244-48bc-464d-bd94-a67348ff4235.png"> | <img width="1200" alt="Screen Shot 2023-02-27 at 5 55 29 PM" src="https://user-images.githubusercontent.com/110359866/221629006-521d20b7-e29e-4068-badf-efdeffbcbf34.png"> |
+
 ## Available Scripts
 
 In the project directory, you can run:
