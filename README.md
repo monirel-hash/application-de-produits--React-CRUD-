@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# DESCRIPTIN:
+>This is a simple application with 3 pages that allows users to view, filter, and add products. The main page displays a list of products with the ability to filter by name, category, stock status, and price range using the ProductFilter component. Clicking on a product's name leads to a details page showing the product's name, description, brand, category, price, and stock status. The third page is a form for adding a new product, which requires validation of all fields. The app uses routing to navigate between the pages.
+
 ## Available Scripts
 
 In the project directory, you can run:
