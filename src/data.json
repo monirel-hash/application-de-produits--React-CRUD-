@@ -1,0 +1,209 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nom": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "prix": 549,
+      "stock": true,
+      "marque": "Apple",
+      "categorie": "smartphones"
+    },
+    {
+      "id": 2,
+      "nom": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "prix": 899,
+      "stock": true,
+      "marque": "Apple",
+      "categorie": "smartphones"
+    },
+    {
+      "id": 3,
+      "nom": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "prix": 1249,
+      "stock": true,
+      "marque": "Samsung",
+      "categorie": "smartphones"
+    },
+    {
+      "id": 4,
+      "nom": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "prix": 280,
+      "stock": true,
+      "marque": "OPPO",
+      "categorie": "smartphones"
+    },
+    {
+      "id": 5,
+      "nom": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "prix": 499,
+      "stock": false,
+      "marque": "Huawei",
+      "categorie": "smartphones"
+    },
+    {
+      "id": 6,
+      "nom": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "prix": 1749,
+      "stock": true,
+      "marque": "Apple",
+      "categorie": "laptops"
+    },
+    {
+      "id": 7,
+      "nom": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "prix": 1499,
+      "stock": true,
+      "marque": "Samsung",
+      "categorie": "laptops"
+    },
+    {
+      "id": 8,
+      "nom": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "prix": 1499,
+      "stock": true,
+      "marque": "Microsoft Surface",
+      "categorie": "laptops"
+    },
+    {
+      "id": 9,
+      "nom": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "prix": 1099,
+      "stock": true,
+      "marque": "Infinix",
+      "categorie": "laptops"
+    },
+    {
+      "id": 10,
+      "nom": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "prix": 1099,
+      "stock": false,
+      "marque": "HP Pavilion",
+      "categorie": "laptops"
+    },
+    {
+      "id": 11,
+      "nom": "perfume Oil",
+      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "prix": 13,
+      "stock": true,
+      "marque": "Impression of Acqua Di Gio",
+      "categorie": "fragrances"
+    },
+    {
+      "id": 12,
+      "nom": "Brown Perfume",
+      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+      "prix": 40,
+      "stock": true,
+      "marque": "Royal_Mirage",
+      "categorie": "fragrances"
+    },
+    {
+      "id": 13,
+      "nom": "Fog Scent Xpressio Perfume",
+      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+      "prix": 13,
+      "stock": true,
+      "marque": "Fog Scent Xpressio",
+      "categorie": "fragrances"
+    },
+    {
+      "id": 14,
+      "nom": "Non-Alcoholic Concentrated Perfume Oil",
+      "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+      "prix": 120,
+      "stock": true,
+      "marque": "Al Munakh",
+      "categorie": "fragrances"
+    },
+    {
+      "id": 15,
+      "nom": "Eau De Perfume Spray",
+      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "prix": 30,
+      "stock": false,
+      "marque": "Lord - Al-Rehab",
+      "categorie": "fragrances"
+    },
+    {
+      "id": 16,
+      "nom": "Hyaluronic Acid Serum",
+      "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+      "prix": 19,
+      "stock": true,
+      "marque": "L'Oreal Paris",
+      "categorie": "skincare"
+    },
+    {
+      "id": 17,
+      "nom": "Tree Oil 30ml",
+      "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+      "prix": 12,
+      "stock": true,
+      "marque": "Hemani Tea",
+      "categorie": "skincare"
+    },
+    {
+      "id": 18,
+      "nom": "Oil Free Moisturizer 100ml",
+      "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+      "prix": 40,
+      "stock": true,
+      "marque": "Dermive",
+      "categorie": "skincare"
+    },
+    {
+      "id": 19,
+      "nom": "Skin Beauty Serum.",
+      "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+      "prix": 46,
+      "stock": true,
+      "marque": "ROREC White Rice",
+      "categorie": "skincare"
+    },
+    {
+      "id": 20,
+      "nom": "Freckle Treatment Cream- 15gm",
+      "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+      "prix": 70,
+      "stock": false,
+      "marque": "Fair & Clear",
+      "categorie": "skincare"
+    },
+    {
+      "nom": "test",
+      "description": "test",
+      "prix": 123,
+      "stock": true,
+      "marque": "TestMarque",
+      "categorie": "TestCategorie",
+      "id": 21
+    },
+    {
+      "nom": "monir",
+      "description": "test",
+      "prix": 2000,
+      "marque": "SAISS",
+      "categorie": "water",
+      "id": 22
+    },
+    {
+      "nom": "salam",
+      "description": "meeew",
+      "prix": 1212,
+      "marque": "jghb",
+      "categorie": "kjnln",
+      "id": 23
+    }
+  ]
+}
