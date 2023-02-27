@@ -3,7 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # DESCRIPTIN:
->This is a simple application with 3 pages that allows users to view, filter, and add products. The main page displays a list of products with the ability to filter by name, category, stock status, and price range using the ProductFilter component. Clicking on a product's name leads to a details page showing the product's name, description, brand, category, price, and stock status. The third page is a form for adding a new product, which requires validation of all fields. The app uses routing to navigate between the pages.
+>This is a simple application with 3 pages that enables users to view, filter, and add products. The main page displays a list of products with the ability to filter by name, category, stock status, and price range using the ProductFilter component. Clicking on a product's name leads to a details page showing the product's name, description, brand, category, price, and stock status. The third page is a form for adding a new product, which requires validation of all fields. The app uses routing to navigate between the pages. Additionally, the list of products displayed on the main page is retrieved from an API using an asynchronous call with the axios library. This ensures that the products displayed are always up-to-date and accurate.
+>
+>The ProductFilter component also works in conjunction with this API call, allowing users to filter the list of products based on their preferences. Similarly, when a new product is added using the form on the third page, the data is sent to the API through another asynchronous call for storage and future retrieval.
+> The use of asynchronous calls helps to improve the performance and reliability of the application.
 
 # SCREEENS:
 
